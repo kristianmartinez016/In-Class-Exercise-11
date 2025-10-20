@@ -23,17 +23,28 @@
   font-style: normal;
 }
 
-
+html {
+  background-color: #583d2d;
+  color: #a7a7a7;
+  text-align: center;
+  padding: 25px 240px;
+}
 
 h1 {
-  font-family: "Cherry Bomb One"
+  font-family: "Cherry Bomb One", sans-serif;
+  font-size: 54px;
+  margin-bottom: 5px;
+  color: tan
 }
 
 h2 {
   font-family: "Fuzzy Bubbles";
+  font-size: 18px;
   font-weight: 700;
+  margin-bottom: 35px;
 }
 
 p {
   font-family: "Fuzzy Bubbles";
+  margin-bottom: 15px
 }
