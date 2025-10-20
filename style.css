@@ -27,7 +27,11 @@ html {
   background-color: #583d2d;
   color: #a7a7a7;
   text-align: center;
-  padding: 25px 240px;
+  background-image: linear-gradient(rgb(122 81 62 / 95%), rgb(122 81 62 / 95%)), url("https://i.pinimg.com/474x/04/14/36/041436d58510f46d972414d3d2109c74.jpg");
+}
+
+main {
+   padding: 25px 400px;
 }
 
 h1 {
